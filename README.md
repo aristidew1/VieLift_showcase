@@ -15,13 +15,13 @@ Ces visuels sont de **véritables captures d'écran de VieLift**, et non des maq
 <table>
   <tr><td align="center"><strong>Accueil</strong></td><td align="center"><strong>Calendrier</strong></td></tr>
   <tr>
-    <td align="center"><img src="assets/screenshots/accueil.png" alt="Accueil VieLift — tableau de bord et séances" width="320" /></td>
-    <td align="center"><img src="assets/screenshots/calendrier.png" alt="VieLift — calendrier et suivi des séances" width="320" /></td>
+    <td align="center"><img src="assets/screenshots/accueil.webp" alt="Accueil VieLift — tableau de bord et séances" width="320" /></td>
+    <td align="center"><img src="assets/screenshots/calendrier.webp" alt="VieLift — calendrier et suivi des séances" width="320" /></td>
   </tr>
   <tr><td align="center"><strong>Programmes</strong></td><td align="center"><strong>Paramètres</strong></td></tr>
   <tr>
-    <td align="center"><img src="assets/screenshots/programmes.png" alt="VieLift — programmes d'entraînement et import avec IA" width="320" /></td>
-    <td align="center"><img src="assets/screenshots/parametres.png" alt="VieLift — paramètres, thèmes et accessibilité" width="320" /></td>
+    <td align="center"><img src="assets/screenshots/programmes.webp" alt="VieLift — programmes d'entraînement et import avec IA" width="320" /></td>
+    <td align="center"><img src="assets/screenshots/parametres.webp" alt="VieLift — paramètres, thèmes et accessibilité" width="320" /></td>
   </tr>
 </table>
 
